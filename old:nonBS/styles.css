@@ -1,0 +1,60 @@
+body {
+	background-color:white;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+.intro {
+	margin-top: 40px;
+}
+
+#name {
+	font-size: 230%;
+	font-weight:bold;
+}
+
+.nav {
+	margin-top: 50px;
+}
+
+
+button {
+	color:black;
+	background-color: rgb(255,255,255);
+	font-size:200%;
+	border:solid;
+	border-color:black;
+	padding-left: 10px;
+	padding-right: 10px;
+	/*box-shadow: 0 9px black;*/
+}
+button:hover{
+	background-color:rgb(100,149,237);
+}
+
+button:active{
+	
+}
+
+button[type='spaced'] {
+	margin-left: 10px;
+}
+
+
+a {
+	text-decoration: none
+}
+
+a:link{
+	color:black;
+}
+
+a:visited{
+	color:black;
+}
+a:active{
+	color:black;
+}
+
+
+
